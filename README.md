@@ -1,6 +1,6 @@
 # Santa's Stolen Sleigh
 
-Code for Santa's Stolen Sleigh. Ranked 7th / xxxxx teams.
+Code for [Santa's Stolen Sleigh](https://www.kaggle.com/c/santas-stolen-sleigh).
 
 - Hill climbing method using *destroy and repair* operation.
 - Fast *weighted trip length* function with insert operation. It can be computed in constant time.
